@@ -1,0 +1,10 @@
+<svg id="Component_81_22" data-name="Component 81 – 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5570" data-name="Rectangle 5570" width="24" height="24" transform="translate(333 525)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_57" data-name="Mask Group 57" transform="translate(-333 -525)" clip-path="url(#clip-path)">
+    <path id="diamond_20dp_FFFFFF_FILL1_wght400_GRAD0_opsz20" d="M12.032-18.481l3.209-6.449,3.5,6.449Zm2.6,13.765L3.754-16.941H14.631Zm1.54,0V-16.941H27.048Zm4.3-13.765-3.722-6.93h7.893l2.759,6.93Zm-17.07,0,2.759-6.93h7.6L10.3-18.481Z" transform="translate(329.599 552.064)" fill="#fff" stroke="#707070" stroke-width="0.032"/>
+  </g>
+</svg>

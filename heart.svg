@@ -1,0 +1,10 @@
+<svg id="Component_80_34" data-name="Component 80 – 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3826" data-name="Rectangle 3826" width="24" height="24" transform="translate(-689 -171)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_55" data-name="Mask Group 55" transform="translate(689 171)" clip-path="url(#clip-path)">
+    <path id="favorite_20dp_FFFFFF_FILL1_wght400_GRAD0_opsz20" d="M15-4.5,13.438-5.906q-3.125-2.781-5.156-4.766a32.921,32.921,0,0,1-3.2-3.531,10.811,10.811,0,0,1-1.625-2.828A7.818,7.818,0,0,1,3-19.656a6.371,6.371,0,0,1,1.906-4.687A6.371,6.371,0,0,1,9.594-26.25a7.075,7.075,0,0,1,2.969.656A6.878,6.878,0,0,1,15-23.75a6.878,6.878,0,0,1,2.438-1.844,7.075,7.075,0,0,1,2.969-.656,6.371,6.371,0,0,1,4.688,1.906A6.371,6.371,0,0,1,27-19.656a7.8,7.8,0,0,1-.437,2.594,10.4,10.4,0,0,1-1.609,2.781,35.266,35.266,0,0,1-3.219,3.547Q19.688-8.719,16.5-5.844Z" transform="translate(-692 -143.625)" fill="#fff"/>
+  </g>
+</svg>
